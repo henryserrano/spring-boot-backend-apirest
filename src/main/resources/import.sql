@@ -1,0 +1,10 @@
+insert into clientes (nombre,apellido,email,create_at) values ('Henry','Serrano','henryserrano@gmail.com','2018-01-01');
+insert into clientes (nombre,apellido,email,create_at) values ('Juan','Vargas','henryserrano@gmail.com','2018-01-01');
+insert into clientes (nombre,apellido,email,create_at) values ('Camilo','Fernandez','henryserrano@gmail.com','2018-01-01');
+insert into clientes (nombre,apellido,email,create_at) values ('Jaime','Tarazona','henryserrano@gmail.com','2018-01-01');
+insert into clientes (nombre,apellido,email,create_at) values ('Juan','Serrano','henryserrano@gmail.com','2018-01-01');
+insert into clientes (nombre,apellido,email,create_at) values ('Diego','Castro','henryserrano@gmail.com','2018-01-01');
+insert into clientes (nombre,apellido,email,create_at) values ('Andres','Serrano','henryserrano@gmail.com','2018-01-01');
+insert into clientes (nombre,apellido,email,create_at) values ('Pedro','Rosales','henryserrano@gmail.com','2018-01-01');
+insert into clientes (nombre,apellido,email,create_at) values ('Jorge','Garcia','henryserrano@gmail.com','2018-01-01');
+insert into clientes (nombre,apellido,email,create_at) values ('Joe','Cardenas','henryserrano@gmail.com','2018-01-01');
