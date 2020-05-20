@@ -28,8 +28,11 @@ public class Cliente implements Serializable {
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	public Long id;
 	
+	@Column(nullable=false)
 	public String nombre;
+	@Column(nullable=false)
 	public String apellido;
+	@Column(nullable=false,unique=true)
 	public String email;
 	
 	@PrePersist
